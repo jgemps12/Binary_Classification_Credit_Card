@@ -28,7 +28,7 @@ You can download the data from:
 2.) **Google Colab** notebook (same as Jupyter Lab notebook)
   - An ***HTML*** version can be found in this **repository**. This file is strictly meant for reading the code.
   - An ***online***, interactive version can be viewed by clicking this **link**:
-    - https://drive.google.com/file/d/1Oc32Qeyff0XnDXbs6NWEbii71M2o70Je/view?usp=sharing
+    - https://colab.research.google.com/drive/17jY1RPa1ggaDa0VeFZyikGr8R8FALTEd?usp=sharing
     
 3.) **Overleaf Report**
   - A ***PDF*** version can be found in one of the *5 folders* in this **repository**. 
