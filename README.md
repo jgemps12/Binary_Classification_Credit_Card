@@ -31,7 +31,7 @@ You can download the data from:
     - https://colab.research.google.com/drive/17jY1RPa1ggaDa0VeFZyikGr8R8FALTEd?usp=sharing
     
 3.) **Overleaf Report**
-  - A ***PDF*** version can be found in one of the *5 folders* in this **repository**. 
+  - A ***PDF*** version can be found in this **repository**. 
   - An ***online***, read-only version can be viewed by clicking this **link**:
     - https://www.overleaf.com/read/xngvdmjcwpby#02f348
 
